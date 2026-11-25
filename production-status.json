@@ -5,12 +5,12 @@
   "chapters": 10,
   "text_verified": true,
   "integrated_scenes": 0,
-  "character_sheets_status": "Jack and Annie base sheets reviewed; remaining cast pending",
+  "character_sheets_status": "Jack, Annie, Slim reviewed; remaining cast pending",
   "chapter_briefs": 10,
   "public_deployment_status": "text_and_two_sheets_release",
   "browser_qa": "not_performed",
   "scene_count_status": "not_finalized",
   "public_deployment_authorized": true,
   "public_url": "https://kingspledu.github.io/mth10-reading-room/",
-  "character_sheets": 2
+  "character_sheets": 3
 }
