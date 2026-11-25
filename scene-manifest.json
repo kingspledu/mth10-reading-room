@@ -628,5 +628,329 @@
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
     "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0033",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      1,
+      2
+    ],
+    "asset": "assets/mth10-scene-0033.webp",
+    "text": "The air was hot and dry.\n\nJack and Annie peeked outside.",
+    "crop": [
+      4,
+      3,
+      378,
+      251
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0034",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      3,
+      4
+    ],
+    "asset": "assets/mth10-scene-0034.webp",
+    "text": "The tree house had landed in a lone tree on a prairie. The sun was low in the sky.\n\nRight in front of them was the town from the cover of the book. In real life it looked empty and spooky.",
+    "crop": [
+      392,
+      2,
+      761,
+      251
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0035",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      5,
+      6
+    ],
+    "asset": "assets/mth10-scene-0035.webp",
+    "text": "To one side of the town was a patch of ground with several tombstones.\n\n“That’s creepy,” said Annie.",
+    "crop": [
+      776,
+      3,
+      1145,
+      251
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0036",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      7,
+      8,
+      9
+    ],
+    "asset": "assets/mth10-scene-0036.webp",
+    "text": "“Yeah,” said Jack. He took a deep breath. “What’s our riddle say?”\n\nAnnie held up the ancient scroll. She unrolled it. Then she and Jack read together:\n\nOut of the blue,\nmy lonely voice\ncalls out to you.\nWho am I? Am I?",
+    "crop": [
+      1160,
+      2,
+      1531,
+      251
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0037",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      10,
+      11
+    ],
+    "asset": "assets/mth10-scene-0037.webp",
+    "text": "Jack pushed his glasses into place and read the riddle again to himself.\n\n“There must be a mistake,” he said. “ ‘Am I?’ is written twice.”",
+    "crop": [
+      6,
+      262,
+      378,
+      506
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0038",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      12,
+      13
+    ],
+    "asset": "assets/mth10-scene-0038.webp",
+    "text": "“Well, I don’t hear any voices now,” Annie said as she looked out the window.\n\nThere were no human sounds at all—only the buzzing of flies and the whistling of the dry wind.",
+    "crop": [
+      392,
+      262,
+      761,
+      506
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0039",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      14,
+      15,
+      16
+    ],
+    "asset": "assets/mth10-scene-0039.webp",
+    "text": "“Let’s look at the book,” Jack said.\n\nHe opened the book. The pages were yellow with age. He found a picture of the town and read the words beneath it out loud:\n\nIn the 1870s, Rattlesnake Flats was a rest stop for the stagecoach that carried passengers from Santa Fe, New Mexico, to Fort Worth, Texas. When the creek dried up, everyone left. By 1880, it was a “ghost town.”",
+    "crop": [
+      776,
+      262,
+      1145,
+      506
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0040",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      17,
+      18
+    ],
+    "asset": "assets/mth10-scene-0040.webp",
+    "text": "“Wow, a ghost town,” said Annie, her eyes wide.\n\n“Let’s take a quick look around,” said Jack. “So we can leave before dark.”",
+    "crop": [
+      1160,
+      262,
+      1531,
+      506
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0041",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      19
+    ],
+    "asset": "assets/mth10-scene-0041.webp",
+    "text": "“Right,” said Annie. “Let’s hurry.” She started down the rope ladder.",
+    "crop": [
+      6,
+      517,
+      378,
+      764
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0042",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      20
+    ],
+    "asset": "assets/mth10-scene-0042.webp",
+    "text": "Jack put the old book into his pack. Then he followed Annie down the ladder.",
+    "crop": [
+      392,
+      517,
+      761,
+      764
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0043",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      21
+    ],
+    "asset": "assets/mth10-scene-0043.webp",
+    "text": "They stood by the tree and looked about. Tumbleweeds blew across the dry ground.",
+    "crop": [
+      776,
+      517,
+      1145,
+      764
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0044",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      22,
+      23,
+      24
+    ],
+    "asset": "assets/mth10-scene-0044.webp",
+    "text": "Suddenly something jumped past them.\n\n“Yikes!” they both said.\n\nBut it was just a rabbit—a lone, long-legged rabbit hopping past them.",
+    "crop": [
+      1160,
+      517,
+      1531,
+      764
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0045",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      25,
+      26,
+      27
+    ],
+    "asset": "assets/mth10-scene-0045.webp",
+    "text": "“Hey, he’s just like that rabbit we saw at home,” said Jack.\n\n“Yeah, that rabbit must have been a sign of things to come,” said Annie.\n\nThe rabbit hopped across the prairie and out of sight.",
+    "crop": [
+      2,
+      773,
+      378,
+      1021
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0046",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "asset": "assets/mth10-scene-0046.webp",
+    "text": "“I’d better take notes,” said Jack.\n\nHe reached into his backpack and took out his notebook and pencil.\n\nHe wrote:\n\nrabbits with long legs",
+    "crop": [
+      392,
+      773,
+      761,
+      1021
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0047",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "asset": "assets/mth10-scene-0047.webp",
+    "text": "“What’s that sound?” said Annie.\n\n“What sound?” asked Jack.\n\n“That rattling sound!” said Annie.\n\nJack looked up. “What?” he said.",
+    "crop": [
+      776,
+      773,
+      1145,
+      1021
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0048",
+    "chapter": 2,
+    "part": 1,
+    "page": "part-02-01.html",
+    "paragraphs": [
+      36
+    ],
+    "asset": "assets/mth10-scene-0048.webp",
+    "text": "“There!” Annie pointed to a rattlesnake. It was about a hundred feet away.",
+    "crop": [
+      1160,
+      773,
+      1531,
+      1021
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
   }
 ]
