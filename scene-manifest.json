@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "id": "mth10-scene-0001",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      1
+    ],
+    "asset": "assets/mth10-scene-0001.webp",
+    "text": "Jack and Annie were sitting on the porch of their house. Annie was gazing down the street at the Frog Creek woods. Jack was reading a book.",
+    "crop": [
+      2,
+      3,
+      379,
+      252
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0002",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      2,
+      3
+    ],
+    "asset": "assets/mth10-scene-0002.webp",
+    "text": "“I have a feeling we should check the woods again,” said Annie.\n\n“Why?” said Jack without looking up.",
+    "crop": [
+      392,
+      4,
+      762,
+      252
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0003",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      4,
+      5,
+      6
+    ],
+    "asset": "assets/mth10-scene-0003.webp",
+    "text": "“A rabbit’s hopping by,” said Annie.\n\n“So? We’ve seen rabbits before.”\n\n“Not like this one,” said Annie.",
+    "crop": [
+      775,
+      4,
+      1145,
+      252
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0004",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      7,
+      8
+    ],
+    "asset": "assets/mth10-scene-0004.webp",
+    "text": "“What do you mean?” Jack stood up and looked with her.\n\nHe saw a rabbit with very long legs hopping down their street. Soon the rabbit left the sidewalk and headed into the woods.",
+    "crop": [
+      1159,
+      2,
+      1531,
+      252
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0005",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      9,
+      10
+    ],
+    "asset": "assets/mth10-scene-0005.webp",
+    "text": "“He’s a sign,” said Annie.\n\n“A sign of what?” said Jack.",
+    "crop": [
+      6,
+      263,
+      378,
+      507
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0006",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      11
+    ],
+    "asset": "assets/mth10-scene-0006.webp",
+    "text": "“That Morgan’s back,” said Annie. She jumped off the porch. “Come on!”",
+    "crop": [
+      392,
+      263,
+      762,
+      507
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0007",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      12,
+      13
+    ],
+    "asset": "assets/mth10-scene-0007.webp",
+    "text": "“But what about dinner?” Jack said. “Dad said it would be ready soon.”\n\n“Don’t worry,” said Annie. “You know when we leave in the tree house, time stops.”",
+    "crop": [
+      775,
+      263,
+      1146,
+      507
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0008",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      14
+    ],
+    "asset": "assets/mth10-scene-0008.webp",
+    "text": "She ran across their yard.",
+    "crop": [
+      1159,
+      263,
+      1531,
+      507
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0009",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      15
+    ],
+    "asset": "assets/mth10-scene-0009.webp",
+    "text": "Jack pulled on his backpack. “Back in ten minutes!” he called through the screen door. Then he followed Annie.",
+    "crop": [
+      4,
+      517,
+      378,
+      761
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0010",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      16
+    ],
+    "asset": "assets/mth10-scene-0010.webp",
+    "text": "They hurried down their street and into the Frog Creek woods. The sun was setting above the trees.",
+    "crop": [
+      392,
+      517,
+      762,
+      761
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0011",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      17,
+      18
+    ],
+    "asset": "assets/mth10-scene-0011.webp",
+    "text": "“There he is!” said Annie.\n\nThe rabbit was standing in a ray of sunlight. When he saw them, he took off.",
+    "crop": [
+      775,
+      517,
+      1146,
+      761
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0012",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      19
+    ],
+    "asset": "assets/mth10-scene-0012.webp",
+    "text": "Jack and Annie followed the rabbit until he vanished behind the tallest tree.",
+    "crop": [
+      1159,
+      517,
+      1531,
+      761
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0013",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      20
+    ],
+    "asset": "assets/mth10-scene-0013.webp",
+    "text": "“I told you! See?” said Annie, panting. She pointed up at the tree.",
+    "crop": [
+      6,
+      772,
+      378,
+      1019
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0014",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      21
+    ],
+    "asset": "assets/mth10-scene-0014.webp",
+    "text": "Morgan le Fay was waving to them from the magic tree house high in the branches.",
+    "crop": [
+      392,
+      772,
+      762,
+      1020
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0015",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      22
+    ],
+    "asset": "assets/mth10-scene-0015.webp",
+    "text": "Jack and Annie waved back to her. As always, Jack was very happy to see the enchantress librarian again.",
+    "crop": [
+      775,
+      772,
+      1145,
+      1020
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0016",
+    "chapter": 1,
+    "part": 1,
+    "page": "part-01-01.html",
+    "paragraphs": [
+      23,
+      24
+    ],
+    "asset": "assets/mth10-scene-0016.webp",
+    "text": "“Come on up!” she called.\n\nAnnie and Jack started up the rope ladder. They climbed up to the tree house.",
+    "crop": [
+      1159,
+      772,
+      1531,
+      1020
+    ],
+    "review": "Source sequence, character timing, detected-gutter overlay and every native crop visually reviewed; no inset required.",
+    "status": "integrated"
+  }
+]

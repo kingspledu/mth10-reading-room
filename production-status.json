@@ -4,16 +4,17 @@
   "parts": 16,
   "chapters": 10,
   "text_verified": true,
-  "integrated_scenes": 0,
+  "integrated_scenes": 16,
   "character_sheets_status": "Jack and Annie retained; seven other sheets reviewed in actual MTH04 cartoon style",
   "chapter_briefs": 10,
   "public_deployment_status": "text_and_two_sheets_release",
   "browser_qa": "not_performed",
-  "scene_count_status": "284 preliminary candidates; semantic review required before generation",
+  "scene_count_status": "284 preliminary candidates; first Part source review split into 16 approved scenes. Remaining counts require semantic review.",
   "public_deployment_authorized": true,
   "public_url": "https://kingspledu.github.io/mth10-reading-room/",
   "character_sheets": 9,
   "style_master_url": "https://kingspledu.github.io/mth04-reading-room/characters.html",
   "environment_sheets": 1,
-  "scene_candidate_count": 284
+  "scene_candidate_count": 284,
+  "completed_story_batches": 1
 }
