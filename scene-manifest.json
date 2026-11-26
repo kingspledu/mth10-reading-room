@@ -2265,5 +2265,309 @@
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
     "status": "integrated",
     "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
+  },
+  {
+    "id": "mth10-scene-0113",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      28
+    ],
+    "page": "part-04-01.html",
+    "text": "“Let’s go,” said Annie. “We have to take him to his mom.”",
+    "asset": "assets/mth10-scene-0113.webp",
+    "crop": [
+      2,
+      2,
+      305,
+      302
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0114",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "page": "part-04-01.html",
+    "text": "“Are you nuts?” said Jack. “We have to solve our riddle. It’ll be dark soon. And those guys were real bad guys, I could tell.”",
+    "asset": "assets/mth10-scene-0114.webp",
+    "crop": [
+      321,
+      2,
+      622,
+      302
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0115",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "page": "part-04-01.html",
+    "text": "“We don’t have any choice,” said Annie.",
+    "asset": "assets/mth10-scene-0115.webp",
+    "crop": [
+      637,
+      2,
+      939,
+      302
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0116",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "page": "part-04-01.html",
+    "text": "“Oh, brother.” Jack knew she wouldn’t change her mind. “Let’s see what the book says.” He read more about mustangs:",
+    "asset": "assets/mth10-scene-0116.webp",
+    "crop": [
+      954,
+      2,
+      1256,
+      302
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0117",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "page": "part-04-01.html",
+    "text": "Wild mustangs live together in families. The bond between a mare and her young is very strong. His sounds of distress or hunger will always bring her to him. A mustang cannot bear to wander alone.",
+    "asset": "assets/mth10-scene-0117.webp",
+    "crop": [
+      2,
+      316,
+      305,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0118",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      33
+    ],
+    "page": "part-04-01.html",
+    "text": "Jack groaned. He looked at Sunset. The young mustang did have a sad look in his eyes.",
+    "asset": "assets/mth10-scene-0118.webp",
+    "crop": [
+      321,
+      316,
+      622,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0119",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      34
+    ],
+    "page": "part-04-01.html",
+    "text": "“Okay, we’ll make a plan,” he said. “But first I have to get out of these boots.”",
+    "asset": "assets/mth10-scene-0119.webp",
+    "crop": [
+      637,
+      316,
+      939,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0120",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      35
+    ],
+    "page": "part-04-01.html",
+    "text": "Jack grabbed one of his boots and pulled.",
+    "asset": "assets/mth10-scene-0120.webp",
+    "crop": [
+      954,
+      316,
+      1256,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0121",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      36
+    ],
+    "page": "part-04-01.html",
+    "text": "“Hurry!” said Annie.",
+    "asset": "assets/mth10-scene-0121.webp",
+    "crop": [
+      2,
+      633,
+      306,
+      934
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0122",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      37
+    ],
+    "page": "part-04-01.html",
+    "text": "“I can’t even think in these things!” said Jack.",
+    "asset": "assets/mth10-scene-0122.webp",
+    "crop": [
+      321,
+      633,
+      622,
+      934
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0123",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      38
+    ],
+    "page": "part-04-01.html",
+    "text": "He huffed and puffed and pulled. Then a deep voice stopped him cold: “Hands up—or I’ll shoot!”",
+    "asset": "assets/mth10-scene-0123.webp",
+    "crop": [
+      637,
+      633,
+      938,
+      934
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0124",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      39
+    ],
+    "page": "part-04-01.html",
+    "text": "Jack let go of his boot. He raised his hands in the air. So did Annie.",
+    "asset": "assets/mth10-scene-0124.webp",
+    "crop": [
+      954,
+      633,
+      1256,
+      934
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0125",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "page": "part-04-01.html",
+    "text": "A cowboy rode out of an alley. His face was bony and tanned. He was riding a gray horse and pointing a six-shooter.",
+    "asset": "assets/mth10-scene-0125.webp",
+    "crop": [
+      2,
+      948,
+      306,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0126",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      41
+    ],
+    "page": "part-04-01.html",
+    "text": "“I reckon you’re the smallest horse thieves I’ve ever come across,” he said.",
+    "asset": "assets/mth10-scene-0126.webp",
+    "crop": [
+      321,
+      948,
+      622,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0127",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "page": "part-05-01.html",
+    "text": "“We’re not horse thieves!” said Annie.",
+    "asset": "assets/mth10-scene-0127.webp",
+    "crop": [
+      637,
+      948,
+      938,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0128",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      2
+    ],
+    "page": "part-05-01.html",
+    "text": "“Well then, what are you doing with my horse here?” he said.",
+    "asset": "assets/mth10-scene-0128.webp",
+    "crop": [
+      954,
+      948,
+      1256,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
   }
 ]
