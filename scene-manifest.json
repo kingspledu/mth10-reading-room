@@ -2569,5 +2569,316 @@
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
     "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0129",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "page": "part-05-01.html",
+    "text": "“Some bad guys came through town with his mother,” said Annie. “They left him behind because he was too slow.”",
+    "asset": "assets/mth10-scene-0129.webp",
+    "crop": [
+      2,
+      2,
+      311,
+      305
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0130",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "page": "part-05-01.html",
+    "text": "“Yup, must be the rustlers that stole my last five mustangs,” the cowboy said.",
+    "asset": "assets/mth10-scene-0130.webp",
+    "crop": [
+      323,
+      2,
+      623,
+      305
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0131",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "page": "part-05-01.html",
+    "text": "“Who are you?” said Jack.\n\n“I’m a mustang herder,” the cowboy said.",
+    "asset": "assets/mth10-scene-0131.webp",
+    "crop": [
+      634,
+      2,
+      935,
+      305
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0132",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "page": "part-05-01.html",
+    "text": "“They rode through town. Then Sunset showed up all alone,” said Annie. “We’re taking him to his mother.”",
+    "asset": "assets/mth10-scene-0132.webp",
+    "crop": [
+      946,
+      2,
+      1256,
+      305
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0133",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "page": "part-05-01.html",
+    "text": "“Sunset?” the cowboy said.\n\n“Yup,” Annie smiled. “I named him.”",
+    "asset": "assets/mth10-scene-0133.webp",
+    "crop": [
+      2,
+      317,
+      312,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0134",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "page": "part-05-01.html",
+    "text": "The cowboy put away his six-shooter. “Well, you’re pretty brave to try and rescue him, Smiley,” he said.",
+    "asset": "assets/mth10-scene-0134.webp",
+    "crop": [
+      323,
+      317,
+      623,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0135",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "page": "part-05-01.html",
+    "text": "“Thanks,” said Annie.",
+    "asset": "assets/mth10-scene-0135.webp",
+    "crop": [
+      635,
+      317,
+      934,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0136",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "page": "part-05-01.html",
+    "text": "Jack cleared his throat. “A mustang needs his family,” he said. “The bond between a mare and her young is very strong.”",
+    "asset": "assets/mth10-scene-0136.webp",
+    "crop": [
+      947,
+      317,
+      1256,
+      618
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0137",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "page": "part-05-01.html",
+    "text": "The cowboy looked at Jack. “Whoa, you’re pretty smart to know that, Shorty.”",
+    "asset": "assets/mth10-scene-0137.webp",
+    "crop": [
+      2,
+      632,
+      312,
+      923
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0138",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "page": "part-05-01.html",
+    "text": "“Shorty?” said Jack.\n\n“Every cowpoke’s got to have a nickname,” said the cowboy.",
+    "asset": "assets/mth10-scene-0138.webp",
+    "crop": [
+      324,
+      632,
+      624,
+      923
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0139",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "page": "part-05-01.html",
+    "text": "“What’s yours?” said Annie.\n\n“Slim,” said the cowboy. “My name is Slim Cooley. And this is Dusty.” He patted his horse.",
+    "asset": "assets/mth10-scene-0139.webp",
+    "crop": [
+      635,
+      632,
+      935,
+      923
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0140",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "page": "part-05-01.html",
+    "text": "“That fits,” said Annie.\n\nJack agreed. Slim was slim. And Dusty was dusty.",
+    "asset": "assets/mth10-scene-0140.webp",
+    "crop": [
+      946,
+      632,
+      1256,
+      923
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0141",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "page": "part-05-01.html",
+    "text": "“So tell me,” Slim said. “How did you two brave, smart young’uns end up in Rattlesnake Flats?”\n\nJack caught his breath. He didn’t know how to explain it.",
+    "asset": "assets/mth10-scene-0141.webp",
+    "crop": [
+      2,
+      935,
+      312,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0142",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "page": "part-05-01.html",
+    "text": "“Um … the stagecoach,” said Annie. “We begged the driver to let us off. But I think we made a mistake.”",
+    "asset": "assets/mth10-scene-0142.webp",
+    "crop": [
+      324,
+      935,
+      623,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0143",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      23,
+      24
+    ],
+    "page": "part-05-01.html",
+    "text": "Slim looked around. “I’ll say,” he said.\n\n“When the next stage comes through, we’re leaving,” said Annie.",
+    "asset": "assets/mth10-scene-0143.webp",
+    "crop": [
+      635,
+      935,
+      934,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
+  },
+  {
+    "id": "mth10-scene-0144",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "page": "part-05-01.html",
+    "text": "“I see,” said Slim. “Well, I’m going to take my colt now and find those rustlers. You didn’t hear where they were headed, did you?”",
+    "asset": "assets/mth10-scene-0144.webp",
+    "crop": [
+      947,
+      935,
+      1256,
+      1248
+    ],
+    "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
+    "status": "integrated"
   }
 ]
