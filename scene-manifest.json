@@ -1293,7 +1293,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0066",
@@ -1313,7 +1314,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0067",
@@ -1333,7 +1335,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0068",
@@ -1353,7 +1356,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0069",
@@ -1373,7 +1377,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0070",
@@ -1393,7 +1398,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0071",
@@ -1412,7 +1418,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0072",
@@ -1433,7 +1440,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0073",
@@ -1452,7 +1460,8 @@
       752
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0074",
@@ -1472,7 +1481,8 @@
       752
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0075",
@@ -1492,7 +1502,8 @@
       752
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0076",
@@ -1512,7 +1523,8 @@
       752
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0077",
@@ -1531,7 +1543,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0078",
@@ -1550,7 +1563,8 @@
       1020
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0079",
@@ -1569,7 +1583,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0080",
@@ -1588,7 +1603,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0081",
@@ -1607,7 +1623,8 @@
       251
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0082",
@@ -1627,7 +1644,8 @@
       251
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0083",
@@ -1647,7 +1665,8 @@
       251
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0084",
@@ -1667,7 +1686,8 @@
       251
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0085",
@@ -1687,7 +1707,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0086",
@@ -1706,7 +1727,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0087",
@@ -1726,7 +1748,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0088",
@@ -1746,7 +1769,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0089",
@@ -1765,7 +1789,8 @@
       761
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0090",
@@ -1785,7 +1810,8 @@
       761
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0091",
@@ -1804,7 +1830,8 @@
       761
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0092",
@@ -1824,7 +1851,8 @@
       761
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0093",
@@ -1843,7 +1871,8 @@
       1020
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0094",
@@ -1863,7 +1892,8 @@
       1020
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0095",
@@ -1882,7 +1912,8 @@
       1020
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0096",
@@ -1901,7 +1932,8 @@
       1020
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0097",
@@ -1920,7 +1952,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0098",
@@ -1940,7 +1973,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0099",
@@ -1960,7 +1994,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0100",
@@ -1968,11 +2003,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      6,
-      7
+      6
     ],
     "asset": "assets/mth10-scene-0100.webp",
-    "text": "Jack turned the page. There was a picture of a herd of horses. Two of them even looked like the beautiful mare and her colt.\n\n“Hey, Annie,” Jack called. “You should see this picture.”",
+    "text": "Jack turned the page. There was a picture of a herd of horses. Two of them even looked like the beautiful mare and her colt.",
     "crop": [
       1157,
       4,
@@ -1980,7 +2014,8 @@
       253
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0101",
@@ -1988,11 +2023,12 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
+      7,
       8,
       9
     ],
     "asset": "assets/mth10-scene-0101.webp",
-    "text": "Annie didn’t answer.\n\nJack looked up.",
+    "text": "“Hey, Annie,” Jack called. “You should see this picture.”\n\nAnnie didn’t answer.\n\nJack looked up.",
     "crop": [
       4,
       264,
@@ -2000,7 +2036,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0102",
@@ -2008,11 +2045,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      10,
-      11
+      10
     ],
     "asset": "assets/mth10-scene-0102.webp",
-    "text": "Annie was trying to get close to the young mustang, but he kept darting away.\n\n“Watch it! He’s wild!” said Jack.",
+    "text": "Annie was trying to get close to the young mustang, but he kept darting away.",
     "crop": [
       391,
       264,
@@ -2020,7 +2056,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0103",
@@ -2028,11 +2065,11 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      12,
-      13
+      11,
+      12
     ],
     "asset": "assets/mth10-scene-0103.webp",
-    "text": "Annie was speaking softly to the colt.\n\nShe slowly reached out and grabbed the end of his rope. Still talking to him, she led him to a broad wooden post.",
+    "text": "“Watch it! He’s wild!” said Jack.\n\nAnnie was speaking softly to the colt.",
     "crop": [
       773,
       264,
@@ -2040,7 +2077,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0104",
@@ -2048,11 +2086,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      14,
-      15
+      13
     ],
     "asset": "assets/mth10-scene-0104.webp",
-    "text": "“Stop! Don’t do anything!” said Jack.\n\nHe flipped the pages of his book. He found a section called “How to Treat a Horse.”",
+    "text": "She slowly reached out and grabbed the end of his rope. Still talking to him, she led him to a broad wooden post.",
     "crop": [
       1157,
       264,
@@ -2060,7 +2097,8 @@
       506
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0105",
@@ -2068,11 +2106,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      16,
-      17
+      14
     ],
     "asset": "assets/mth10-scene-0105.webp",
-    "text": "The basic rules on how to treat a horse are simple: a soft hand, a firm voice, a sunny attitude, praise, and reward.\n\n“I’ve got the rules!” shouted Jack. “Don’t do anything before I write them down!”",
+    "text": "“Stop! Don’t do anything!” said Jack.",
     "crop": [
       5,
       516,
@@ -2080,7 +2117,8 @@
       751
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0106",
@@ -2088,11 +2126,11 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      18,
-      19
+      15,
+      16
     ],
     "asset": "assets/mth10-scene-0106.webp",
-    "text": "Jack pulled out his notebook and pencil. He wrote:\n\nHorse Rules\n1. soft hand\n2. firm voice\n3. sunny attitude\n4. praise\n5. reward",
+    "text": "He flipped the pages of his book. He found a section called “How to Treat a Horse.”\n\nThe basic rules on how to treat a horse are simple: a soft hand, a firm voice, a sunny attitude, praise, and reward.",
     "crop": [
       391,
       516,
@@ -2100,7 +2138,8 @@
       751
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0107",
@@ -2108,10 +2147,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      20
+      17
     ],
     "asset": "assets/mth10-scene-0107.webp",
-    "text": "“Okay, listen—” Jack looked up.",
+    "text": "“I’ve got the rules!” shouted Jack. “Don’t do anything before I write them down!”",
     "crop": [
       773,
       516,
@@ -2119,7 +2158,8 @@
       751
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0108",
@@ -2127,10 +2167,11 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      21
+      18,
+      19
     ],
     "asset": "assets/mth10-scene-0108.webp",
-    "text": "But Annie was already sitting on the colt’s back!",
+    "text": "Jack pulled out his notebook and pencil. He wrote:\n\nHorse Rules\n1. soft hand\n2. firm voice\n3. sunny attitude\n4. praise\n5. reward",
     "crop": [
       1157,
       516,
@@ -2138,7 +2179,8 @@
       751
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0109",
@@ -2146,11 +2188,10 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      22,
-      23
+      20
     ],
     "asset": "assets/mth10-scene-0109.webp",
-    "text": "Jack froze. He held his breath.\n\nThe mustang whinnied and pawed the ground. He snorted and tossed his head.",
+    "text": "“Okay, listen—” Jack looked up.",
     "crop": [
       5,
       761,
@@ -2158,7 +2199,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0110",
@@ -2166,10 +2208,11 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      24
+      21,
+      22
     ],
     "asset": "assets/mth10-scene-0110.webp",
-    "text": "Annie kept patting his neck and talking softly.",
+    "text": "But Annie was already sitting on the colt’s back!\n\nJack froze. He held his breath.",
     "crop": [
       391,
       761,
@@ -2177,7 +2220,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0111",
@@ -2185,11 +2229,11 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
-      25,
-      26
+      23,
+      24
     ],
     "asset": "assets/mth10-scene-0111.webp",
-    "text": "Finally the young horse grew still.\n\nAnnie smiled at Jack. “I named him Sunset,” she said.",
+    "text": "The mustang whinnied and pawed the ground. He snorted and tossed his head.\n\nAnnie kept patting his neck and talking softly.",
     "crop": [
       773,
       761,
@@ -2197,7 +2241,8 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   },
   {
     "id": "mth10-scene-0112",
@@ -2205,10 +2250,12 @@
     "part": 1,
     "page": "part-04-01.html",
     "paragraphs": [
+      25,
+      26,
       27
     ],
     "asset": "assets/mth10-scene-0112.webp",
-    "text": "Jack let out his breath.",
+    "text": "Finally the young horse grew still.\n\nAnnie smiled at Jack. “I named him Sunset,” she said.\n\nJack let out his breath.",
     "crop": [
       1157,
       761,
@@ -2216,6 +2263,7 @@
       1018
     ],
     "review": "Source timeline and actual gutter overlay plus all native crops visually reviewed; native aspect ratio preserved.",
-    "status": "integrated"
+    "status": "integrated",
+    "quality_followup": "See production-notes.md: source-level continuity defects remain; mechanical anchor and dimension checks do not resolve them."
   }
 ]
